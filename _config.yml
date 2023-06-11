@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale: "en-US"
+locale: "en-IN"
 title: "Ajit Singh's Homepage"
 title_separator: "-"
 name: &name "Ajit Singh"
@@ -25,7 +25,7 @@ comments:
   disqus:
     shortname:
   discourse:
-    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server:
   facebook:
     appid:
     num_posts: # 5 (default)
@@ -82,11 +82,11 @@ author:
   avatar: "profile.jpg"
   bio: "Ph.D. Scholar"
   location: "Jaipur, RJ"
-  employer:
-  pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer: "Amity University Rajasthan"
+  pubmed:
   googlescholar: "https://scholar.google.com/citations?user=CW5LWSEAAAAJ&hl=en"
   email: "ajitsinghmani@gmail.com"
-  researchgate: "https://scholar.google.com/citations?user=CW5LWSEAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Ajit-Singh-44"
   uri:
   bitbucket:
   codepen:
@@ -94,20 +94,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "ajitsinghacademic"
+  github: #"ajitsinghacademic"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
+  linkedin: "ajit-kumar-singh-6aa02791"
   orcid: "https://orcid.org/0000-0002-5126-8221"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter: # "replacethistwitterhandle"
   vine:
   weibo:
   xing:
