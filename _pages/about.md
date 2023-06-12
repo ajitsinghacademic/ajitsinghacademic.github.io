@@ -29,6 +29,9 @@ For further information on my achievements, publications and conferences, please
 
 ## Contact Information:
 
+Researcher ID: - AAE-5369-2021
+Scopus ID: - 57221149195
+
 I welcome collaboration opportunities, discussions, and inquiries from fellow researchers, potential collaborators, or students interested in my work. Feel free to reach out to me using the provided contact information. I will make sure to respond as promptly as possible.
 
 Thank you for visiting, and I hope you find it informative and inspiring. Together, let us strive for knowledge advancement and make a positive impact in our respective fields.
