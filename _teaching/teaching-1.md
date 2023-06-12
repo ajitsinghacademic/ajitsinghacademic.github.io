@@ -4,7 +4,7 @@ collection: teaching
 type: "Guest Lecturer"
 permalink: /teaching/teaching-1
 venue: "Vatsalya Senior Secondary School"
-date: 2019
+date: 2019-01-01
 location: "Sagar, Madhya Pradesh"
 ---
 
