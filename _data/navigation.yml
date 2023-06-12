@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: https://scholar.google.com/citations?user=CW5LWSEAAAAJ&hl=en
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Blog Posts"
     url: https://ajitresearchblogs.blogspot.com/
