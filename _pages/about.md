@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to the Academic Website of Dr. Ajit Singh, PhD Scholar in Psychology.
-
 ## Introduction:
 
 Hello and welcome to my academic website! I am Ajit Singh, a dedicated and passionate PhD scholar specializing in Psychology. This website serves as a platform for sharing my research, academic accomplishments, and interests with fellow scholars, students, and the wider community. Here you will find information about my research projects, publications, conference presentations, and more.
