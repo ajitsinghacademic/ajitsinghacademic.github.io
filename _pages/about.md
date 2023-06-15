@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction:
 
-Hello and welcome to my academic website! I am Ajit Kumar Singh, a dedicated and passionate PhD scholar, currently working as Assistant Profesor at AIBAS at Amity University Rajsthan, specializing in Psychology. This website serves as a platform for sharing my research, academic accomplishments, and interests with fellow scholars, students, and the wider community. Here you will find information about my research projects, publications, conference presentations, and more.
+Hello and welcome to my academic website! I am Ajit Kumar Singh, a dedicated and passionate PhD scholar, currently working as Assistant Profesor at AIBAS at Amity University Rajasthan, specializing in Psychology. This website serves as a platform for sharing my research, academic accomplishments, and interests with fellow scholars, students, and the wider community. Here you will find information about my research projects, publications, conference presentations, and more.
 
 ## Research Interests:
 
