@@ -10,7 +10,7 @@ locale: "en-IN"
 title: "Ajit Singh's Homepage"
 title_separator: "-"
 name: &name "Ajit Singh"
-description: &description "personal description"
+description: &description "Assistant Professor"
 url: https://ajitsinghacademic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "ajitsinghacademic/ajitsinghacademic.github.io"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Dr. Ajit Singh"
+  name: "Dr. Ajit Kumar Singh"
   avatar: "profile.jpg"
   bio: "Founder and director, Managing Wellbeing Counselling Services"
   location: "Jaipur, RJ"
