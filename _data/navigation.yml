@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: https://www.researchgate.net/profile/Ajit-Singh-44
 
-  # - title: "Talks"
-  #   url: /talks/
+  # - title: "About Me"
+  #   url: /aboutme/
 
   - title: "Teaching"
     url: /teaching/

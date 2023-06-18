@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Asst. Professor"
+type: <https://www.amity.edu/jaipur/aibas/faculty_details.aspx?mpgid=497&pgidtrail=497&facultyid=4503>
 permalink: /teaching/teaching-2
 venue: "Amity University Rajasthan"
 date: 2022-12-14
