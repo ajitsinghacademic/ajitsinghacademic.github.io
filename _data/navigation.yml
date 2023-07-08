@@ -9,8 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "News and Announcements"
+    url:
+
+  - title: "Invited Lectures and Talks"
+    url:
 
   - title: "Blog Posts"
     url: https://ajitresearchblogs.blogspot.com/
