@@ -1,6 +1,6 @@
 
 # Site Settings
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "aqua"
 locale: "en-IN"
 title: "Ajit Singh's Homepage"
