@@ -1,7 +1,7 @@
 
 # Site Settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "aqua"
+# theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin: "aqua"
 locale: "en-IN"
 title: "Ajit Singh's Homepage"
 title_separator: "-"
