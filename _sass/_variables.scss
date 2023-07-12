@@ -52,12 +52,16 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
+$aqua-text                  : #0B698B;
+$aqua-masthead-link         : #0396A6;
+$aqua-background            : #FFF3E0;
+$aqua-element               : #9CD3D8;
 
-$body-color                 : #0576a6;
-$background-color           : #fff;
+$body-color                 : $aqua-background;
+$background-color           : $aqua-background;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : $aqua-text;
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
@@ -93,7 +97,7 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
+$masthead-link-color        : $aqua-masthead-link;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
@@ -151,3 +155,5 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+

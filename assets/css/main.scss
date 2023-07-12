@@ -15,6 +15,7 @@
 @import "mixins";
 @import "vendor/susy/susy";
 
+
 @import "reset";
 @import "base";
 
@@ -28,6 +29,8 @@
 @import "footer";
 @import "syntax";
 
+
+
 @import "forms";
 
 @import "page";
@@ -39,3 +42,40 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/*
+   DARK MODE
+   ========================================================================== */
+
+
+
+   html, html[data-theme="light"] { 
+    border-color: $aqua-masthead-link;
+      --link-color: rgb(0, 112, 201);
+      background-color: $aqua-background;
+      color: $aqua-text;
+  }
+  
+  html[data-theme="dark"] {
+      border-color: rgb(199, 199, 204);
+       --link-color: rgb( 100, 210, 255);
+        background-color: rgb(28, 28, 30);
+        color: rgb(229, 229, 234);
+    }
+  
+  @media (prefers-color-scheme: dark) {
+    html, html[data-theme="dark"] {
+      border-color: rgb(199, 199, 204);
+        --link-color: rgb( 100, 210, 255);
+        background-color: rgb(28, 28, 30);
+        color: rgb(229, 229, 234);
+    }
+    
+    html[data-theme="light"] { 
+    border-color: $aqua-masthead-link;
+      --link-color: rgb(0, 112, 201);
+      background-color: $aqua-background;
+      color: $aqua-text;
+    }
+  }
