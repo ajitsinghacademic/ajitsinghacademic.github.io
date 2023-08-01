@@ -103,7 +103,7 @@ $(document).ready(function(){
 
 
 // DARK MODE SWITCHER
-
+/*
 let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)"); 
 let theme = sessionStorage.getItem('theme');
 
@@ -157,3 +157,5 @@ if (theme === "dark") {
 	sessionStorage.setItem('theme', 'light');
 	document.getElementById("theme-toggle").innerHTML = "Dark Mode";
 }
+
+*/

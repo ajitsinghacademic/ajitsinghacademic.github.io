@@ -25,7 +25,7 @@ Through my research, I aim to contribute to the existing body of knowledge in th
 
 ## Further Information:
 
-For further information on my achievements, publications and conferences, please refer to my [Curriculum Vitae](/files/cv.docx).
+For further information on my achievements, publications and conferences, please refer to my [Curriculum Vitae](/cv/).
 
 ## Contact Information:
 
