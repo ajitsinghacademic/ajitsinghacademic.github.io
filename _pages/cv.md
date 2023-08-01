@@ -25,6 +25,7 @@ redirect_from:
 # Topic of Doctoral Research
 
 - _Exploring the nature and dynamics of unforgiveness: Standardizing a scale using the Mixed Methods_
+<!-->
 
 # Education
 
